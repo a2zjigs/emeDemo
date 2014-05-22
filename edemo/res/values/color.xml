@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="themeColor">#fa0000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="pink">#FF00FF</color>
+    <color name="orange">#DC572E</color>
+    <color name="Green">#00A600</color>
+    <color name="skyblue">#0A5BC4</color>
+
+</resources>

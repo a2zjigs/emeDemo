@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">I\'m in emergency</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="forgotpass"><u>Forgot Password?</u></string>
+    <string name="register">Register</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="confirmpass">Confirm Password</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="send">Send</string>
+
+    <!-- ForgotPassword -->
+    <string name="forgotpasswordtitletext">FORGOT YOUR PASSWORD?</string>
+    <string name="messagetext">Your new password will be sent to your registered Email.\n Please check in your registerd Account.</string>
+    <string name="hospital">Hospital</string>
+    <string name="police">Police</string>
+    <string name="fire_station">Fire Station</string>
+    <string name="friends">Friends</string>
+    <string name="myprofile">My Profile</string>
+    <string name="add_more_contacts">Add More Contacts</string>
+    <string name="add_more_emails">Add More Emails</string>
+    <string name="police_helpline">Police Helpline Number</string>
+    <string name="hospital_helpline">Hospital Helpline Number</string>
+    <string name="fire_helpline_number">Fire Station Helpline Number</string>
+    <string name="incaseofemergency">In case of Emergency</string>
+    <string name="Reset_password">Reset Password</string>
+    <string name="verification">Verification</string>
+    <string name="email_address">Email Address</string>
+    <string name="home">Home</string>
+    <string name="colon">:</string>
+    <string name="blood_group">Blood group</string>
+    <string name="allergies">Allergies</string>
+    <string name="is_diabetic">Is diabetic</string>
+    <string name="blood_pressure">Blood Pressure</string>
+    <string name="cancer">Cancer</string>
+    <string name="choose_blood_group">Choose Blood Group</string>
+
+</resources>

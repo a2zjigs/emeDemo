@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <item
+        android:drawable="@drawable/emergency1"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/emergency2"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/emergency3"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/emergency4"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/emergency5"
+        android:duration="1000"/>
+    <item
+        android:drawable="@drawable/emergency4"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/emergency3"
+        android:duration="100"/>
+    <item
+        android:drawable="@drawable/emergency2"
+        android:duration="100"/>
+     <item
+        android:drawable="@drawable/emergency1"
+        android:duration="100"/>
+
+</animation-list>
